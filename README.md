@@ -30,29 +30,11 @@ Here it is:
 
 ---
 
-## 📁 Project Structure
-
-```
-src/
-├── components/
-│   ├── Header/          # Top navigation bar with cart counter
-│   ├── ProductCard/     # Individual product card component
-│   ├── ProductDetails/  # Full product detail view
-│   ├── ProductCart/     # Cart page component
-│   └── data/            # Product data (products.js)
-├── assets/
-│   └── images/          # Product images
-├── App.jsx              # Routing setup
-└── main.jsx             # App entry point
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v16 or higher)
+- [Node.js] (v16 or higher)
 - npm (comes with Node.js)
 
 ### Installation

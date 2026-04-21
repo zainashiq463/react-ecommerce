@@ -84,17 +84,6 @@ http://localhost:5173
 
 ---
 
-## 📜 Available Scripts
-
-| Script | Description |
-|--------|-------------|
-| `npm run dev` | Starts the local development server |
-| `npm run build` | Creates an optimized production build |
-| `npm run preview` | Preview the production build locally |
-| `npm run lint` | Checks your code for errors with ESLint |
-
----
-
 ## 💡 How It Works
 
 1. Products are stored as a plain JavaScript array in `src/components/data/products.js`

@@ -11,7 +11,7 @@ Here it is:
 
 | Home Page | Product Details | Cart |
 |-----------|----------------|------|
-| ![Home](./screenshots/home.png) | ![Details](./screenshots/details.png) | ![Cart](./screenshots/cart.png) |
+| ![Home](./src/images/cheese.jpg) | ![Details](./src/images/details.png) | ![Cart](./screenshots/cart.png) |
 
 ---
 

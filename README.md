@@ -3,7 +3,8 @@ Here it is:
 ```markdown
 # 🛍️ EssentialsHub
 
-> A beginner-friendly e-commerce frontend built with React and Vite — browse products, view details, and manage cart
+> A beginner-friendly e-commerce frontend built with React and Vite — browse products, view details,
+> and manage cart
 ---
 
 ## ✨ Features

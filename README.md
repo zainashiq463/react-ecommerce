@@ -3,27 +3,19 @@ Here it is:
 ```markdown
 # 🛍️ EssentialsHub
 
-> A beginner-friendly e-commerce frontend built with **React** and **Vite** — browse products, view details, and manage your cart with ease.
-
----
-
-## 📸 Preview
-
-| Home Page | Product Details | Cart |
-|-----------|----------------|------|
-| ![Home](./src/images/cheese.jpg) | ![Details](./src/images/details.png) | ![Cart](./screenshots/cart.png) |
+> A beginner-friendly e-commerce frontend built with React and Vite — browse products, view details, and manage your cart with ease.
 
 ---
 
 ## ✨ Features
 
-- 🏠 **Product listing** — browse all products on the home page
-- 🔍 **Product details** — click any product to see more info
-- 🛒 **Add to cart** — add items with a single click
-- ❌ **Remove from cart** — easily remove items you don't want
-- 🔢 **Cart counter** — live item count shown in the header
-- 💰 **Order summary** — see your total price at a glance
-- 📱 **Responsive layout** — looks good on all screen sizes
+- 🏠 Product listing — browse all products on the home page
+- 🔍 Product details — click any product to see more info
+- 🛒 Add to cart — add items with a single click
+- ❌ Remove from cart — easily remove items you don't want
+- 🔢 Cart counter — live item count shown in the header
+- 💰 Order summary — see your total price at a glance
+- 📱 Responsive layout — looks good on all screen sizes
 
 ---
 
@@ -65,27 +57,27 @@ src/
 
 ### Installation
 
-**1. Clone the repository**
+1. Clone the repository
 ```bash
 git clone https://github.com/zainashiq463/react-ecommerce.git
 ```
 
-**2. Navigate into the project folder**
+2. Navigate into the project folder
 ```bash
 cd react-ecommerce
 ```
 
-**3. Install the dependencies**
+3. Install the dependencies
 ```bash
 npm install
 ```
 
-**4. Start the development server**
+4. Start the development server
 ```bash
 npm run dev
 ```
 
-**5. Open your browser and visit:**
+5. Open your browser and visit:
 ```
 http://localhost:5173
 ```
@@ -108,8 +100,8 @@ http://localhost:5173
 1. Products are stored as a plain JavaScript array in `src/components/data/products.js`
 2. Routing is set up in `src/App.jsx` using React Router
 3. On the home page, all products are displayed as cards
-4. Clicking **"View Details"** navigates to a dedicated product page
-5. Clicking **"Add to Cart"** saves the item to the cart state
+4. Clicking "View Details" navigates to a dedicated product page
+5. Clicking "Add to Cart" saves the item to the cart state
 6. The cart page shows all added items and calculates the total price
 
 ---
@@ -127,7 +119,7 @@ http://localhost:5173
 
 ## 👤 Author
 
-**Zain Ashiq**
+Zain Ashiq
 - GitHub: [@zainashiq463](https://github.com/zainashiq463)
 
 ---

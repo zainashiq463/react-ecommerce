@@ -4,6 +4,12 @@ A beginner-friendly e-commerce frontend built with React and Vite — browse pro
 
 ---
 
+## Live Demo
+
+[essentialshub.vercel.app](https://essentialshub.vercel.app)
+
+---
+
 ## Features
 
 - Product listing — browse all products on the home page
@@ -54,9 +60,3 @@ A beginner-friendly e-commerce frontend built with React and Vite — browse pro
 ```bash
    npm run dev
 ```
-
----
-
-## Live Demo
-
-[essentialshub.vercel.app](https://essentialshub.vercel.app)

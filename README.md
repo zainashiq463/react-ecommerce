@@ -1,7 +1,7 @@
-** EssentialsHub **
+__ EssentialsHub __
 A beginner-friendly e-commerce frontend built with React and Vite — browse products, view details, and manage your cart.
 
-** Features **
+__ Features __
 
 Product listing — browse all products on the home page
 Product details — click any product to see more info
